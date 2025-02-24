@@ -6,3 +6,5 @@ create table customer(
 	id int,
 	name varchar(20)
 );
+
+insert into customer values(1, 'sahil');
